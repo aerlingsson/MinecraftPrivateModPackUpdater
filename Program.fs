@@ -3,7 +3,7 @@ open System.IO
 open System.Net.Http
 
 try
-  let modpackUrl = "http://localhost:5257/modpack"
+  let modpackUrl = "http://78.156.125.32/modpack"
   let userDir = Environment.GetFolderPath(Environment.SpecialFolder.UserProfile)
   let userDesktopDir = Path.GetFullPath($"{userDir}/Desktop")
   let modDirName = "flurry97_private_server_mods"
@@ -22,5 +22,6 @@ try
   printfn "Press any key to exit"
   Console.ReadKey() |> ignore
 with ex ->
-  printfn $"Error: {ex.Message}"
+  printfn $"Error: {ex.Message}\n"
+  printfn "Press any key to exit"
   Console.ReadKey() |> ignore
