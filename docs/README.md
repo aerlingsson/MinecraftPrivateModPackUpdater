@@ -1,12 +1,7 @@
 ## Usage
 <ol>
-  <li>Download the .exe file from the [latest release](https://github.com/aerlingsson/MinecraftPrivateModPackUpdater/releases/latest)</li>
-  <li>Run the .exe
-    <ol>
-      <li>Windows may give you a warning that the app is unrecognized. Just click "More info" and then "Run anyway"</li>
-      <li>This downloads the mod info zip file to your current user's folder (this is usually <code>C:\Users\{USERNAME}\{MODPACK}.zip</code>)</li>
-    </ol>
-  </li>
+  <li>Download the CurseForge app from https://www.curseforge.com/download/app</li>
+  <li>Download the modpack from [insert dropbox link here or something]
   <li>Open CurseForge</li>
   <li>Select the Minecraft tab</li>
   <li>Select "My Modpacks"</li>
