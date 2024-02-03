@@ -2,6 +2,7 @@
 <ol>
   <li>Download the <a href="https://www.curseforge.com/download/app">CurseForge app</a></li>
   <li>Download <a href="https://drive.google.com/file/d/1H5STSdLaAnqypPtciCRE5_qIliyNJTy8/view?usp=sharing">the modpack</a></li>
+  <img src="https://github.com/aerlingsson/MinecraftPrivateModPackUpdater/assets/34278730/25834b64-c39b-43c5-818d-1be4b22c3a47">
   <li>Open CurseForge</li>
   <li>Select the Minecraft tab</li>
   <img src="https://github.com/aerlingsson/MinecraftPrivateModPackUpdater/assets/34278730/c03eed13-457f-48a3-b7f8-4f83cb1f6824">
