@@ -12,6 +12,6 @@
   <img src="https://github.com/aerlingsson/MinecraftPrivateModPackUpdater/assets/34278730/3a2a9768-fc21-4fb1-ba81-5b81b5d377b5">
   <li>Select the zip file you downloaded in step 2</li>
   <img src="https://github.com/aerlingsson/MinecraftPrivateModPackUpdater/assets/34278730/95f22bc2-bc83-4746-ada0-10d47b1f85a5">
-  <li>Mouseover or click the modpack and then click <code>Click</code></li>
+  <li>Mouseover or click the modpack and then click <code>Play</code></li>
   <img src="https://github.com/aerlingsson/MinecraftPrivateModPackUpdater/assets/34278730/0df35280-c5eb-48b0-b989-9546fda3d054">
 </ol>
