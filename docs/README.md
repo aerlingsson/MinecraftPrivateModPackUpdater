@@ -1,7 +1,7 @@
 ## Usage
 <ol>
-  <li>Download the [CurseForge app](https://www.curseforge.com/download/app)</li>
-  <li>Download [the modpack](https://drive.google.com/file/d/1H5STSdLaAnqypPtciCRE5_qIliyNJTy8/view?usp=sharing)</li>
+  <li>Download the <a href="https://www.curseforge.com/download/app">CurseForge app</a></li>
+  <li>Download <a href="https://drive.google.com/file/d/1H5STSdLaAnqypPtciCRE5_qIliyNJTy8/view?usp=sharing">the modpack</a></li>
   <li>Open CurseForge</li>
   <li>Select the Minecraft tab</li>
   <li>Select "My Modpacks"</li>
