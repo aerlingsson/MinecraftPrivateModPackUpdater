@@ -17,5 +17,5 @@
 </ol>
 
 ### Optional:
-One or more shader packs may be included in the modpack. To be able to use them, you need to install <a href="https://irisshaders.dev/download">Iris</a>. When installing Iris you need to select the correct CurseForge instance. Per default this should be <code>C:\Users\USERNAME\curseforge\minecraft\Instances\flurry97_private_server</code>. You can also find this path by pressing <code>Open Folder</code> on the modpack in CurseForge.
+One or more shader packs may be included in the modpack. To be able to use them, you need to install <a href="https://irisshaders.dev/download">Iris</a>. When installing Iris you must select <code>Forge install</code> and the correct CurseForge instance. Per default this should be <code>C:\Users\USERNAME\curseforge\minecraft\Instances\flurry97_private_server</code>. You can also find this path by pressing <code>Open Folder</code> on the modpack in CurseForge.
 <img src="https://github.com/aerlingsson/MinecraftPrivateModPackUpdater/assets/34278730/4fc84be6-6b5e-4033-a8dc-4955141c5806">
