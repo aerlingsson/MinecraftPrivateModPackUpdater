@@ -1,7 +1,7 @@
 ## Usage
 <ol>
   <li>Download the <a href="https://www.curseforge.com/download/app">CurseForge app</a></li>
-  <li>Download <a href="https://drive.google.com/file/d/1H5STSdLaAnqypPtciCRE5_qIliyNJTy8/view?usp=sharing">the modpack</a></li>
+  <li>Download <a href="https://drive.google.com/file/d/1prjWQaeOCcLINUxHGWewC1D6y86xH3nS/view?usp=sharing">the modpack</a></li>
   <img src="https://github.com/aerlingsson/MinecraftPrivateModPackUpdater/assets/34278730/25834b64-c39b-43c5-818d-1be4b22c3a47">
   <li>Open CurseForge</li>
   <li>Select the Minecraft tab</li>
@@ -15,3 +15,7 @@
   <li>Mouseover or click the modpack and then click <code>Play</code></li>
   <img src="https://github.com/aerlingsson/MinecraftPrivateModPackUpdater/assets/34278730/0df35280-c5eb-48b0-b989-9546fda3d054">
 </ol>
+
+### Optional:
+One or more shader packs may be included in the modpack. To be able to use them, you need to install <a href="https://irisshaders.dev/download">Iris</a>. When installing Iris you need to select the correct CurseForge instance. Per default this should be <code>C:\Users\USERNAME\curseforge\minecraft\Instances\flurry97_private_server</code>. You can also find this path by pressing <code>Open Folder</code> on the modpack in CurseForge.
+<img src="https://github.com/aerlingsson/MinecraftPrivateModPackUpdater/assets/34278730/4fc84be6-6b5e-4033-a8dc-4955141c5806">
